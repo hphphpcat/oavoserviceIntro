@@ -88,6 +88,12 @@ VO 辅助（Virtual Onsite 辅助）是指在视频面试过程中，我们的�
 
 我们提供 OA 通过案例、VO 通过案例及客户真实评价截图，所有反馈均来自真实服务记录，欢迎访问官网查看详情。
 
+| | | |
+|:---:|:---:|:---:|
+| ![case_1](case_1.jpg) | ![case_2](case_2.jpg) | ![case_3](case_3.jpg) |
+| ![case_4](case_4.jpg) | ![case_5](case_5.jpg) | ![case_6](case_6.jpg) |
+| ![case_7](case_7.jpg) | ![case_8](case_8.jpg) | ![case_9](case_9.jpg) |
+
 ---
 
 ## 联系我们
